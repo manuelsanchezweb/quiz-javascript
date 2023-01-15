@@ -14,9 +14,17 @@ form {
 
 .question {
   display: flex;
-  gap: 50px;
+  gap: 20px;
   justify-content: space-between;
   margin: 20px 0;
+}
+
+.question__answers {
+  min-width: 140px;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
 }
 
 /* .question > * {
