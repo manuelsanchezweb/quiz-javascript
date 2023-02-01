@@ -2,6 +2,6 @@
 
 Done by Max and Manuel
 
-## TODOs:
+## Deploy:
 
-- We will deliver the questions by using fetch.
+See https://quiz-javascript-languages.netlify.app/.
